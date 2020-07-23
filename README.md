@@ -16,3 +16,7 @@ This repository contains the materials and lectures to Study Abroad
 
 
 - I will update all the items soon!!
+
+****
+*Contributors: Waseem Hussain and Zahoor Ah. Ganie*
+****
