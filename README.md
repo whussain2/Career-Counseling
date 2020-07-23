@@ -6,7 +6,7 @@ This repository contains the materials and lectures to Study Abroad
 
 # Lectures
 
-- Lecture 1[SKUAST-K Students, July 2020](https://github.com/whussain2/Career-Counseling/blob/gh-pages/Lecture/Counselling_SKUAST-K.pdf))
+- Lecture 1 [SKUAST-K Students, July 2020](https://github.com/whussain2/Career-Counseling/blob/gh-pages/Lectures/Counselling_SKUAST-K.pdf))
 
 # Materials
 
