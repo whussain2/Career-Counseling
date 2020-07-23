@@ -6,7 +6,7 @@ This repository contains the materials and lectures to Study Abroad
 
 # Lectures
 - Lecture 1
-- [SKUAST-K Students]()
+- [SKUAST-K Students](https://github.com/whussain2/Career-Counseling/Lectures/Counselling_SKUAST-K.pdf)
 
 # Materials
 
