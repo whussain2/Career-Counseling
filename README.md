@@ -1,6 +1,7 @@
-# Career-Counseling for Kashmiri Stduents
+# Career-Counseling Resource Hub for Kashmiri Students
 
 This repository contains the materials and lectures to Study Abroad
+
 ![](www/image.png)
 
 
