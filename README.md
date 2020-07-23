@@ -10,7 +10,6 @@ This repository contains the materials and lectures to Study Abroad
 
 # Materials
 
-
 # Links to Fellowships/scholarships
 
 # Links to Find Positions
