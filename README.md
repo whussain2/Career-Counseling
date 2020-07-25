@@ -22,23 +22,21 @@ This repository contains the materials and lectures to Study Abroad
 ## Contributors*
 ****
 
-### 1. Waseem Hussain, PhD
+### 1. [Waseem Hussain, PhD](https://whussain2.github.io/)
 
 ```
 Lead Rainfed Rice Breeding Program
 International Rice Research Institute
 Los Baños, Laguna, Philippines-4031
 email: waseemhussain907@gmail.com
-[Personal webpage](https://whussain2.github.io/)
 ```
 
-### 2. Zahoor Ah. Ganie
+### 2. [Zahoor Ah. Ganie](https://scholar.google.com/citations?user=kmIqsJcAAAAJ&hl=en)
 
 ```
 Global R&D Scientist Herbicide Discovery,
 FMC Stine Research Center, USA
 Email: zahoorganie11@gmail.com
-[Google scholar](https://scholar.google.com/citations?user=kmIqsJcAAAAJ&hl=en)
 ```
 
 ### 3. Javaid Akhter Bhat
